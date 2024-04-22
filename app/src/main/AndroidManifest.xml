@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="easy.tuto.notespro">
+    package="com.example.lab13">
 
     <application
         android:allowBackup="true"
@@ -10,19 +10,19 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.NotesPro">
         <activity
-            android:name=".NoteDetailsActivity"
+            android:name="com.example.lab13.NoteDetailsActivity"
             android:exported="false" />
         <activity
-            android:name=".LoginActivity"
+            android:name="com.example.lab13.LoginActivity"
             android:exported="false" />
         <activity
-            android:name=".CreateAccountActivity"
+            android:name="com.example.lab13.CreateAccountActivity"
             android:exported="false" />
         <activity
-            android:name=".MainActivity"
+            android:name="com.example.lab13.MainActivity"
             android:exported="false" />
         <activity
-            android:name=".SplashActivity"
+            android:name="com.example.lab13.SplashActivity"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />

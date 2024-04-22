@@ -1,36 +1,64 @@
 {
   "project_info": {
-    "project_number": "80052068575",
-    "project_id": "notes-pro-5772e",
-    "storage_bucket": "notes-pro-5772e.appspot.com"
+    "project_number": "209468106482",
+    "project_id": "notes-application-27184",
+    "storage_bucket": "notes-application-27184.appspot.com"
   },
   "client": [
     {
       "client_info": {
-        "mobilesdk_app_id": "1:80052068575:android:c3a6e7675c2849048cc96a",
+        "mobilesdk_app_id": "1:209468106482:android:444ca2c8b2069d96dbd26b",
         "android_client_info": {
-          "package_name": "easy.tuto.notespro"
+          "package_name": "com.example.lab13"
         }
       },
-      "oauth_client": [
-        {
-          "client_id": "80052068575-id4ft80f6f8l2n68eh3cu4cp0sl8m8kg.apps.googleusercontent.com",
-          "client_type": 3
-        }
-      ],
+      "oauth_client": [],
       "api_key": [
         {
-          "current_key": "AIzaSyAl1ZF3QagvTW8bv-pYGPkU6ejRauk3AtM"
+          "current_key": "AIzaSyCob_UVOFz3gFpHbqzRjVT2sN_hO_3X-Yc"
         }
       ],
       "services": {
         "appinvite_service": {
-          "other_platform_oauth_client": [
-            {
-              "client_id": "80052068575-id4ft80f6f8l2n68eh3cu4cp0sl8m8kg.apps.googleusercontent.com",
-              "client_type": 3
-            }
-          ]
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209468106482:android:cb10eff21ebb6948dbd26b",
+        "android_client_info": {
+          "package_name": "com.example.notesapplication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCob_UVOFz3gFpHbqzRjVT2sN_hO_3X-Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:209468106482:android:41a36ac255239765dbd26b",
+        "android_client_info": {
+          "package_name": "easy.tuto.lab13"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCob_UVOFz3gFpHbqzRjVT2sN_hO_3X-Yc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
         }
       }
     }

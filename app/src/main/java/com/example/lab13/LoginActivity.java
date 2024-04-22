@@ -1,4 +1,4 @@
-package easy.tuto.notespro;
+package com.example.lab13;
 
 import androidx.annotation.NonNull;
 import androidx.appcompat.app.AppCompatActivity;
